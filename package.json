@@ -1,9 +1,9 @@
 {
-    "name": "playing.code",
-    "title": "Playing.code",
+    "name": "nne",
+    "title": "nne",
     "version": "1.0.0",
-    "homepage": "http://nne.com.vn",
-    "author": "Tomiti",
+    "homepage": "http://nne.vn",
+    "author": "nnetech",
     "license": {
         "type": "Apache 2.0",
         "url": "https://github.com/tomiti/playing.code/blob/gh-pages/LICENSE"
@@ -17,6 +17,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/tomiti/playing.code.git"
+        "url": "https://github.com/nnetech/blog.git"
     }
 }
