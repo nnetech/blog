@@ -1,0 +1,62 @@
+- slug: 6lowpan
+  name: 6LowPAN
+
+- slug: bluetooth
+  name: Bluetooth
+
+- slug: contiki
+  name: Contiki
+
+- slug: digitalocean
+  name: DigitalOcean
+
+- slug: eclipse
+  name: Eclipse
+
+- slug: freeboard
+  name: Freeboard
+
+- slug: iot
+  name: IoT
+
+- slug: javascript
+  name: Javascript
+
+- slug: linux
+  name: Linux
+
+- slug: Meshblu
+  name: Meshblu
+
+- slug: mqtt
+  name: MQTT
+
+- slug: mongodb
+  name: MongoDB
+
+- slug: nodejs
+  name: Nodejs
+
+- slug: nodered
+  name: NodeRED
+
+- slug: simplelink
+  name: SimpleLink
+
+- slug: python
+  name: Python
+
+- slug: pydev
+  name: PyDev
+
+- slug: sensortag
+  name: SensorTag
+
+- slug: server
+  name: Server
+
+- slug: ubuntu
+  name: Ubuntu
+
+- slug: wireless
+  name: Wireless

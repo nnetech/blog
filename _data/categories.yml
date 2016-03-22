@@ -1,0 +1,23 @@
+- slug: general
+  name: General
+  color: '#eeeeee'
+
+- slug: tutorial
+  name: Tutorial
+  color: '#d6def7'
+
+- slug: software
+  name: Software
+  color: '#ebeffb'
+
+- slug: hardware
+  name: Hardware
+  color: '#ebeffb'
+
+- slug: embedded
+  name: Embedded
+  color: '#eeeeee'
+  
+- slug: webapp
+  name: WebApp
+  color: '#ebeffb'
